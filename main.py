@@ -1,5 +1,5 @@
 # Programmers: Jordi Campoverde and Max Rice
-# Course: CS151, Dr.Yalew
+# Course: CS151, Dr2.Yalew
 # Due Date: 9/18/24
 # Lab Assignment: 1
 # Problem Statement: To figure out the cost of gas for the trip that is being taken
